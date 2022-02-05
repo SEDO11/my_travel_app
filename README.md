@@ -1,5 +1,3 @@
-# my_travel_app
-
 <h1>안드로이드 앱 만들때 참고 바람</h1>
 
 <strong>and 11 ver 이상 부터 다른 앱 실행하는 권한 설정이 바뀜</strong>
