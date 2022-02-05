@@ -8,4 +8,5 @@
         3. QUERY_ALL_PACKAGES 대신 manifest에 &lt;queries&gt;를  추가하여 패키지를 설정해놓아야함.</p>
         
 ![권한 설정](https://user-images.githubusercontent.com/83574029/152647879-a2bf1d32-e7b5-4cf6-974f-d92ee7626def.PNG)
+<br>
 이런 식으로 설정 해줘야 됨
